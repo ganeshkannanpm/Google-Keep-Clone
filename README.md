@@ -93,8 +93,6 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 ## 📸 Screenshots *(Optional)*
 
-Include a few screenshots here:
-
 ```markdown
 ![Notes Dashboard](screenshots/dashboard.png)
 ![Create Note](screenshots/create-note.png)

@@ -53,8 +53,8 @@
                     </div>
                     <h1 class="text-3xl text-white mb-2 font-bold text-center">Update Note</h1>
                     <!-- Notes List -->
-                    <div class="row ">
-                        <div class="col">
+                    <div class="row justify-content-center">
+                        <div class="col col-md-8">
                                 <form action="{{ route('notes.update',$note->id) }}" method="POST">
                                     @csrf
                                     @method('PUT')

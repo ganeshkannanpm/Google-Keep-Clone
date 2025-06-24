@@ -93,11 +93,11 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 ## 📸 Screenshots
 
-```markdown
-![Notes Dashboard](screenshots/dashboard.png)
-![Create Note](screenshots/create-note.png)
-![Update Note](screenshots/update-note.png)
-```
+| Dashboard | Create Note | Update Note |
+|------------|-----------|------------|
+| ![Dashboard](screenshots/dashboard.png) | ![Create Note](screenshots/create-note.png) | ![Update Note](screenshots/update-note.png) |
+
+---
 
 ---
 

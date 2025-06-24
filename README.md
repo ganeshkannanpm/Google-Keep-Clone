@@ -13,7 +13,7 @@ Users can create, edit, view, and delete personal notes securely with authentica
 - ✅ Notes visible only to the logged-in user
 - ✅ Form validation & error handling
 - ✅ Flash messages for actions (success, error)
-- ✅ Responsive design with Bootstrap or Tailwind
+- ✅ Responsive design with Bootstrap and Tailwind CSS
 
 ---
 
@@ -91,15 +91,13 @@ Visit: [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 📸 Screenshots *(Optional)*
+## 📸 Screenshots
 
-Include a few screenshots here:
+| Dashboard | Create Note | Update Note |
+|------------|-----------|------------|
+| ![Dashboard](screenshots/dashboard.png) | ![Create Note](screenshots/create-note.png) | ![Update Note](screenshots/update-note.png) |
 
-```markdown
-![Notes Dashboard](screenshots/dashboard.png)
-![Create Note](screenshots/create-note.png)
-![Update Note](screenshots/update-note.png)
-```
+---
 
 ---
 
